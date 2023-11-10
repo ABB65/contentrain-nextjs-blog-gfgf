@@ -7,5 +7,14 @@
     "componentId": "single-line-text",
     "modelId": "banners",
     "fieldType": "string"
+  },
+  {
+    "name": "Description",
+    "fieldId": "description",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "banners",
+    "fieldType": "date"
   }
 ]
