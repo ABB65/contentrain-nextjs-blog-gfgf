@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "Banners",
+    "modelId": "banners",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
