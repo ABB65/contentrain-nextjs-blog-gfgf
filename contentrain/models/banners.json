@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Title",
+    "fieldId": "title",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "banners",
+    "fieldType": "string"
+  }
+]
