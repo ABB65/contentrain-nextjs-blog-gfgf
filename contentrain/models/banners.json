@@ -16,5 +16,17 @@
     "componentId": "single-line-text",
     "modelId": "banners",
     "fieldType": "date"
+  },
+  {
+    "name": "isPublished",
+    "fieldId": "ispublished",
+    "options": {
+      "default-value": {
+        "value": true
+      }
+    },
+    "componentId": "checkbox",
+    "modelId": "banners",
+    "fieldType": "boolean"
   }
 ]
