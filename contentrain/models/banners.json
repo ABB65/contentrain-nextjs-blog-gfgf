@@ -28,5 +28,14 @@
     "componentId": "checkbox",
     "modelId": "banners",
     "fieldType": "boolean"
+  },
+  {
+    "name": "Yhfdgj",
+    "fieldId": "yhfdgj",
+    "validations": {},
+    "options": {},
+    "componentId": "email",
+    "modelId": "banners",
+    "fieldType": "string"
   }
 ]
